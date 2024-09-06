@@ -4,6 +4,8 @@
 #import math >> Importa TUDO (aqui eu referencio como math.sqrt(x))
 #from math import sqrt >> Importa só o que eu precisar (aqui eu chamo diretamento a função - sqrt(x))
 
+#https://carpedm20.github.io/emoji/
+
 import random
 from emoji import emojize
 
